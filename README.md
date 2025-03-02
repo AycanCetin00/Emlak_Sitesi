@@ -1,3 +1,4 @@
+
 Bu projede, kullanıcıların emlak ilanlarını görüntüleyebileceği, arama yapabileceği ve ilanlara başvuru yapabileceği basit bir emlak sitesi uygulaması geliştirdim. Uygulama, kullanıcı dostu bir arayüze sahip olup, emlak ilanlarının detaylı bilgilerini sunar ve kullanıcıların ilginç bulduğu ilanlara hızlıca başvuru yapabilmesini sağlar.
 
 Temel Özellikler:
