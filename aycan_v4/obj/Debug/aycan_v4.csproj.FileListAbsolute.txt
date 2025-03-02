@@ -1,0 +1,56 @@
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\bin\Debug\aycan_v4.exe.config
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\bin\Debug\aycan_v4.exe
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\bin\Debug\aycan_v4.pdb
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\obj\Debug\aycan_v4.csprojResolveAssemblyReference.cache
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\obj\Debug\aycan_v4.Properties.Resources.resources
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\obj\Debug\aycan_v4.csproj.GenerateResource.Cache
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\obj\Debug\aycan_v4.exe
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\obj\Debug\aycan_v4.pdb
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\bin\Debug\emlak_v1.dll
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\bin\Debug\emlak_v1.pdb
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\obj\Debug\aycan_v4.mainForm.resources
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\obj\Debug\aycan_v4.addHome.resources
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\obj\Debug\aycan_v4.login.resources
+c:\users\merlab\documents\visual studio 2013\Projects\aycan_v4\aycan_v4\obj\Debug\aycan_v4.addUser.resources
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\bin\Debug\aycan_v4.exe.config
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\bin\Debug\aycan_v4.exe
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\bin\Debug\aycan_v4.pdb
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\bin\Debug\emlak_v1.dll
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\bin\Debug\emlak_v1.pdb
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.csproj.AssemblyReference.cache
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.addHome.resources
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.addUser.resources
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.login.resources
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.mainForm.resources
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.Properties.Resources.resources
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.csproj.GenerateResource.cache
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.csproj.CoreCompileInputs.cache
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.csproj.Up2Date
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.exe
+C:\Users\excalibur\Desktop\aycan_v4\aycan_v4\obj\Debug\aycan_v4.pdb
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\bin\Debug\aycan_v4.exe.config
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\bin\Debug\aycan_v4.exe
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\bin\Debug\aycan_v4.pdb
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\bin\Debug\emlak_v1.dll
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\bin\Debug\emlak_v1.pdb
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.csproj.AssemblyReference.cache
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.addHome.resources
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.addUser.resources
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.login.resources
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.mainForm.resources
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.Properties.Resources.resources
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.csproj.GenerateResource.cache
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.csproj.CoreCompileInputs.cache
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.csproj.Up2Date
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.exe
+C:\Users\aycan\Desktop\223301076_aycançetin\aycan_v4\obj\Debug\aycan_v4.pdb
+C:\Users\aycan\OneDrive\Masaüstü\emlak sitesi\aycan_v4\obj\Debug\aycan_v4.csproj.AssemblyReference.cache
+C:\Users\aycan\OneDrive\Masaüstü\emlak sitesi\aycan_v4\obj\Debug\aycan_v4.addHome.resources
+C:\Users\aycan\OneDrive\Masaüstü\emlak sitesi\aycan_v4\obj\Debug\aycan_v4.addUser.resources
+C:\Users\aycan\OneDrive\Masaüstü\emlak sitesi\aycan_v4\obj\Debug\aycan_v4.login.resources
+C:\Users\aycan\OneDrive\Masaüstü\emlak sitesi\aycan_v4\obj\Debug\aycan_v4.mainForm.resources
+C:\Users\aycan\OneDrive\Masaüstü\emlak sitesi\aycan_v4\obj\Debug\aycan_v4.Properties.Resources.resources
+C:\Users\aycan\OneDrive\Masaüstü\emlak sitesi\aycan_v4\obj\Debug\aycan_v4.csproj.GenerateResource.cache
+C:\Users\aycan\OneDrive\Masaüstü\emlak sitesi\aycan_v4\obj\Debug\aycan_v4.csproj.CoreCompileInputs.cache
+C:\Users\aycan\OneDrive\Masaüstü\emlak sitesi\aycan_v4\obj\Debug\aycan_v4.exe
+C:\Users\aycan\OneDrive\Masaüstü\emlak sitesi\aycan_v4\obj\Debug\aycan_v4.pdb

@@ -1,0 +1,5 @@
+c:\Users\MERLAB\documents\visual studio 2013\Projects\aycan_v4\emlak_v1\bin\Debug\emlak_v1.dll
+c:\Users\MERLAB\documents\visual studio 2013\Projects\aycan_v4\emlak_v1\bin\Debug\emlak_v1.pdb
+c:\Users\MERLAB\documents\visual studio 2013\Projects\aycan_v4\emlak_v1\obj\Debug\emlak_v1.dll
+c:\Users\MERLAB\documents\visual studio 2013\Projects\aycan_v4\emlak_v1\obj\Debug\emlak_v1.pdb
+c:\Users\MERLAB\documents\visual studio 2013\Projects\aycan_v4\emlak_v1\obj\Debug\emlak_v1.csprojResolveAssemblyReference.cache
